@@ -16,8 +16,8 @@ For more history information, please reference /history/HISTORY.txt
 
 ## How to use
 1. Put makeSP.exe out of SPxxxx folder and run
-2. Input SP folder name and the foraml folder name which you want to align
-3. Foraml format EX : D:\formal_list\R26_021800
+2. Input SP folder name and the formal folder name which you want to align
+3. Formal format EX : D:\formal_list\R26_021800
 4. Remember to modify History.txt
 
 ## Contributing
